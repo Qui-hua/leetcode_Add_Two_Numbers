@@ -9,3 +9,6 @@ Output: 7 -> 0 -> 8
 Explanation: 342 + 465 = 807.
 
 https://leetcode.com/problems/add-two-numbers/
+
+
+將兩組數字串相加，相加結果大於10要進位，輸入的數值是這樣讀   2 (個位)-> 4(十位) -> 3 (百位)，判斷當兩個數字串該位數都沒有且沒有進位，就結束迴圈
